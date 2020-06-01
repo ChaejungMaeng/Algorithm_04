@@ -2,16 +2,21 @@
 
 
 # Model1
+
 ## 1. Model layers & Summary
 <img width="753" alt="스크린샷 2020-06-01 오후 2 17 57" src="https://user-images.githubusercontent.com/38905066/83381924-e36f8e80-a41c-11ea-8093-6c0d5af21cfa.png">
 <img width="651" alt="스크린샷 2020-06-01 오후 3 31 55" src="https://user-images.githubusercontent.com/38905066/83382035-2e89a180-a41d-11ea-85be-fb16035dff47.png">
+
 ## 2. Training with Training loss 
 <img width="871" alt="스크린샷 2020-06-01 오후 2 19 56" src="https://user-images.githubusercontent.com/38905066/83382054-39443680-a41d-11ea-83f5-4d8cda73deb4.png">
+
 ## 3. Test Accuracy
 <img width="867" alt="스크린샷 2020-06-01 오후 2 20 51" src="https://user-images.githubusercontent.com/38905066/83382062-3e08ea80-a41d-11ea-9ad3-66c5d81064c2.png">
+
 ## 4. Images and corresponding probability that predicted Right 
 <img width="355" alt="스크린샷 2020-06-01 오후 2 21 27" src="https://user-images.githubusercontent.com/38905066/83382076-452ff880-a41d-11ea-8ec4-a00fb554f6eb.png">
 <img width="686" alt="스크린샷 2020-06-01 오후 2 22 13" src="https://user-images.githubusercontent.com/38905066/83382086-47925280-a41d-11ea-9eaf-d6e760f42c1b.png">
+
 ## 5. Images and corresponding probability that predicted Wrong
 <img width="779" alt="스크린샷 2020-06-01 오후 2 22 30" src="https://user-images.githubusercontent.com/38905066/83382093-4a8d4300-a41d-11ea-91a2-319e95a1f65a.png">
 
